@@ -34,4 +34,6 @@ inner_inner_radius = 650  # km (The Sovereign Rotor/IIC)
 
 # VELOCITY ANISOTROPY (The Mechanical Proof)
 # E-W Speed: ≈11.1 km/s (Fast axis aligned with Lorentz Torque)
-# N-S Speed: ≈10.2 km/s (Slow axis)
+
+
+# N-S Speed: ≈10.2 km/s (Slow axis)"See visualize_rotor.py for the coordinate mapping of the crystal grain."
