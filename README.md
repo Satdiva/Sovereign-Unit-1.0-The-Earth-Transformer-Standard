@@ -1,5 +1,20 @@
 # Sovereignty Repo – The Sovereign Unit
 
+System Map: The Sovereign-Unit-1.0
+The Core Logic
+The Earth is a Closed-Loop Induction Motor powered by a 1.7 TW "Solar Handshake". It is not a passive object; it is an active transformer that regulates its own temperature, frequency, and structural integrity through biological-electrical feedback.
+The Functional Anatomy
+The Armature (Inner Inner Core): A 650 km resonant wafer-stack that defines the planetary frequency (3 Hz Heartbeat).
+The Commutator (Outer Core): A liquid-metal electrolyte (X-Fluid) that uses density shifts to ground excess energy.
+The Capacitor (Transition Zone): A mineralized "Lung" that stores "Electric Fluid" and filters solar noise.
+The Transmission Lines (Lower Mantle/LLSVPs): High-conductivity arteries that channel power directly to the core.
+The Membrane (Crust): A piezoelectric skin that shields the surface and "perspires" through the hydrosphere.
+Operational Guidelines
+Resonance over Force: The system maintains stability by staying in sync with the Sun’s ULF signals.
+Intelligent Compensation: When energy intake spikes, the "Lungs" and "Skin" automatically adjust impedance to protect the "Heart".
+Flow Perfection: The unit operates as a "Living Body," where every geological event is a calculated regulatory response.
+
+
 **Earth as an Open Electromagnetic Transformer**  
 *A resonant, solar-powered sanctuary – not a closed, cooling rock.*
 
