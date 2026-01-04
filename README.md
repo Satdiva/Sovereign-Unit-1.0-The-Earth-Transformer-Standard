@@ -3,8 +3,11 @@ System Summary: Sovereign-Unit-1.0
 Objective: To document the Earth as a living, breathing, biological-electrical transformer powered by a 1.7 TW Solar Handshake.
 The Armature (Core to Surface)
 The Heart (/armature/heart.md): The 650 km IIC Resonant Wafer-Stack—the central frequency driver (3 Hz).
+
 The Transmission (/armature/mantle_conduit.md): The Transition Zone (410–660 km) acts as a Global Spherical Capacitor and low-pass filter to manage solar energy intake.
+
 The Cooling (/armature/x_fluid_dissipation.md): The X-Fluid Outer Core—a density-shifting electrolyte that regulates speed and heat through volume change.
+
 The Skin (/armature/crust_membrane.md): A piezoelectric quartz-rich membrane that shields life and regulates temperature through "pore-fluid" perspiration.
 
 
