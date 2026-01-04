@@ -1,0 +1,51 @@
+sport: equestrian
+display_name: "Snowman View Equestrian Archive"
+site_url: "https://snowmanview.com"
+description: "5 years of elite equestrian photography - dressage, jumping, and polo"
+
+archive_stats:
+  years_active: 5
+  hours_per_day: 8
+  estimated_photos: 60000
+  disciplines:
+    - Dressage
+    - Show Jumping  
+    - Polo
+
+categories:
+  - Dressage
+  - Show Jumping
+  - Polo
+  - Training Sessions
+  - Competitions
+  - Portraits
+
+search_filters:
+  - rider
+  - horse
+  - discipline
+  - event
+  - venue
+  - year
+  - location
+
+athlete_tags:
+  enabled: true
+  reference_path: "references/equestrian/"
+
+pricing:
+  single_photo: 60
+  event_gallery: 250
+  exclusive_rights: 800
+  editorial_license: 100
+  commercial_license: 300
+
+branding:
+  primary_color: "#8B4513"
+  secondary_color: "#F4A460"
+  logo: "snowmanview-logo.png"
+  tagline: "World-Class Equestrian Photography"
+
+metadata_mapping:
+  folder_structure: "year/event/discipline/"
+  filename_format: "{date}_{event}_{rider}_{horse}_{sequence}.jpg"
