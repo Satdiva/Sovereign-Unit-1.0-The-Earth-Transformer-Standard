@@ -1,0 +1,1 @@
+The Shadow Zones are Elastic Gates. They vary in size based on the Might Grid load. During a Recoil, they dance within their seismic envelope to modulate the intake, ensuring the 1.7 TW idle remains protected and the 7.83 Hz clock never skips a beat
