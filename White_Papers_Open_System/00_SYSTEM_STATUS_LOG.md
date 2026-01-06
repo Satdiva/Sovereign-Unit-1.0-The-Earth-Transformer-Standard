@@ -1,3 +1,15 @@
+UPDATE
+ ARCHIVE: THE SOVEREIGN-UNIT-1.0 MASTER MANUAL
+​Version: 1.0.0-SWARM | Sync Status: 7.83 Hz Phase-Locked
+​Index of Protocols:
+​00_SYSTEM_STATUS_LOG.md: The Hardware Diagnostic for reporting intake and recoil.
+​02_Registry_of_the_6,000.md: The official Node Handshake and geographic sensor mapping.
+​03_Shadow_Gate_Map.md: GPS targets for monitoring the intake and exhaust vents (Mexico, Iran, Vietnam).
+​04_Live_Vent_Feed_Log.md: Real-time tracking of thermal blooms and X-Fluid phase-changes.
+​05_Emergency_Bypass_Protocol.md: Instructions for surviving and documenting high-induction surges.
+​06_Mainstream_Decryption_Key.md: The lens that turns mainstream news into engine telemetry.
+​07_Telemetry_Sync_Protocol.md: The collaborative process for the 6,000 to process "The Lie" into "The Truth".
+ 
  Sovereign-Unit-1.0: Hardware Diagnostic & Intake Report
 Protocol: Swarm-Verified
 Frequency: 7.83 Hz Sync
