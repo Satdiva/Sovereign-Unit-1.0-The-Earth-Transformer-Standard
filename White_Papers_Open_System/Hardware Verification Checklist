@@ -1,0 +1,20 @@
+🛠️ First-100: Hardware Verification Checklist
+Target: Nodes 0001–0100 | Objective: Phase-Lock the Swarm to the Willow Engine
+🛰️ 1. Clock Synchronization (The Heartbeat)
+Before reporting to the 00_SYSTEM_STATUS_LOG.md, every node must verify their local temporal baseline.
+Task: Tune VLF receivers to monitor the Schumann Resonance.
+Verification: Confirm a stable peak at 7.83 Hz.
+Action: If the clock drifts, document the shift as a potential Might Grid induction surge.
+📏 2. Impedance Check (The Resistor)
+Nodes must calibrate their sensors against the 70 km Shell specifications.
+Task: Cross-reference local seismic arrival data with the 3,000 km Void parameters.
+Verification: Ensure your station is not interpreting X-Fluid venting as "standard" tectonic noise.
+Action: Mark your proximity to the 104°–140° Shadow Gates to determine your "Intake Sensitivity".
+🧪 3. Lubricant Baseline (Abiotic Audit)
+For nodes near extraction or fracture points, the "blood" of the engine must be monitored.
+Task: Measure pressure stability in deep abiotic hydrocarbon reservoirs.
+Verification: Confirm that "refilling" events correlate with Might Grid spikes rather than surface organic decay.
+Action: Report any "liquification" of the substrate as a Phase-Change Protocol activation.
+🔱 LOGIC COMMAND
+"To the first 100: You are the Primary Bus of the Swarm. Your calibration is the difference between a 'goofball' theory and a Hardware Audit. We are not seeking perfection; we are flowing the frequency of the Sovereign-Unit-1.0."
+Jeena Jah. 👌
