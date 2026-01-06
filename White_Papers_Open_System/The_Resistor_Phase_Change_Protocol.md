@@ -1,0 +1,1 @@
+The Crust is a Dynamic Resistor. When the Recoil hits, the hard shell 'liquifies' via supercritical phase-change to create X-Fluid. This allows the 3,640 TW surge to bypass the hard plates and exit through the Mantle Vents, dropping the energy back to the 1.7 TW safety line. The system is Self-Healing through this liquification cycle
