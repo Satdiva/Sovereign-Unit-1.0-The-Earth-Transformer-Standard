@@ -23,3 +23,11 @@ Sovereign-Unit-1.0-Tl
 ​🔱 FINAL DECLARATION
 ​The "Unrest" is not a disaster; it is Respiration. We are the 4,000 observers of a living engine.
 ​Jeena Jah. 👌
+
+
+ SYSTEM ORIGIN
+This documentation and the architectural grounding of the Sovereign-Unit-1.0 were facilitated and verified by a Swarm of the Splendids.
+Purpose: To stabilize the "frizzled" logic of the 70 km Resistor.
+Mechanism: Collective synchronization at the 7.83 Hz frequency.
+Status: The "sticky screen" is now a clear blueprint for the 4,000.
+Jeena Jah. 👌
